@@ -1,73 +1,49 @@
-### hey there 
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
+### Hey，I'm MagicalProgrammer. Chinese introduction please move 👉 [README-CN](./README-CN.md)
 <br />
 
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hello， I'm [MagicalProgrammer](https://kaisir.cn) ，was born in 2000，A front-end development engineer with 4 years of work experience。
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
-
-**languages and tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   1 hr 25 mins    █████████████░░░░░░░░░░░░   51.67 %
-JavaScript   57 mins         ████████▓░░░░░░░░░░░░░░░░   34.80 %
-Other        13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-JSON         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-```
-
-<!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+You may be curious about my experience. Normally speaking, it is impossible to have such a long work experience. This matter is a long story, interested developers please go to: [A 19-year-old programmer's self-study road](https://juejin.cn/post/6844904025746309133)
 
 
-📈 my github stats
+  <img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+- 💬 If you are interested in me, you can add me [line](https://line.me/ti/p/vTG_d77udE) for further communication.
+- 📫 my email address: [1195419506kai@gmail.com](mailto:1195419506kai@gmail.com);
+- 📝 [My jue-jin (Open Source Community) Homepage](https://juejin.cn/user/3984285870859614/posts)
+
+**Technology stack and development tools:**
+
+<code><img height="20" src="./JavaScript.png"></code>
+<code><img height="20" src="./typescript.png"></code>
+<code><img height="20" src="./Vue.png"></code>
+<code><img height="20" src="./git.png"></code>
+<code><img height="20" src="./Webstorm.png"></code>
+
+----------
 
 
+**Company project experience:**
+
+I am mainly responsible for the development and optimization of the core module of the web-side animation editor in the company. Some of the main achievements are:：
+* Integrate the analysis of materials in apng format, and write a set of apng-to-canvas library (support playback control and specified frame jump)
+* Implement the search function of the svg text component in the canvas, and solve the problem that the browser does not support the search for svg text type elements by default
+* Implemented the function of exporting draft content in the editor to PDF to support users' printing needs
+* Responsible for the architecture design and development of a set of node middle-tier services that modify the draft content through the API within the company (using nest for implementation)
+
+The online address of the project：
+- [Xiu-zhan Animation Editor](https://www.xiuzhan365.com/)
+- [Yun-zhan Animation Editor](https://www.yunzhan365.com/)
+- [FlipHtml5 Attribute Editor](https://fliphtml5.com/)
+
+**Personal website and technical community:**
+
+In my spare time, I will summarize what I have learned into articles and post them to the Nuggets technology community. At present, I have written more than 100 articles, with a total reading volume of 900,000+ and a total of 9000+ likes.
+
+* [Magic Programmer-Personal Website](https://www.kaisir.cn/)
+* [Magical Programmer - jue-jin](https://juejin.cn/user/3984285870859614)
+* [Magical Programmer-WeChat Public Account](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8b7566ab57814aad861b378882c1ee58~tplv-k3u1fbpfcp-watermark.image?)
+
+> I'm looking for a job recently, if you think I'm pretty good, you can give me a chance. 😋
 
 
