@@ -36,11 +36,10 @@ Wish you a good-looking profile README!
 
 I'm **Goofy** G**O**O**fy**, an coder at ShangHai.
 
--   :hammer_and_pick: C++ / Qt / TypeScript / Vue / React / Python
+-   :hammer_and_pick:   C++ / Qt / TypeScript / Vue / React / Python
 -   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
 -   :seedling: Taking courses & doing assignments at THU
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new)!
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
 -   :heart: [Sponsor me](https://ouuan.moe/sponsor) via [Weixin](https://ouuan.moe/images/wechat-donate.png) / [Alipay](https://ouuan.moe/images/alipay-donate.png) / [ko-fi.com](https://ko-fi.com/ouuan)
 
 ---
