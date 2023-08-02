@@ -36,7 +36,7 @@ I'm **Goofy** G**O**O**fy**, an coder at ShangHai.
 -   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
 -   :seedling: Taking courses & doing assignments at THU
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new)!
--   :heart: [Sponsor me](https://ouuan.moe/sponsor) via [Weixin](https://ouuan.moe/images/wechat-donate.png) / [Alipay](https://ouuan.moe/images/alipay-donate.png) / [ko-fi.com](https://ko-fi.com/ouuan)
+-   :heart: work life balance
 
 ---
 
