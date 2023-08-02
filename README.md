@@ -44,7 +44,7 @@ I'm **Goofy** G**O**O**fy**, an coder at ShangHai.
 
 ---
 
-### :pencil: [Latest blog posts](https://ouuan.moe?utm_source=GitHubProfile)
+
 
 <!--START_SECTION:blog-posts-->
 -   2023-07-18 [CNATDA 第八章学习笔记](https://ouuan.moe/post/2023/07/cnatda-8?utm_source=GitHubProfile)
