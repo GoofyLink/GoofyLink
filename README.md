@@ -29,10 +29,6 @@ Wish you a good-looking profile README!
 
 ## 😊 Hey! Nice to see you :wave:
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
-</picture>
 
 I'm **Goofy** G**O**O**fy**, an coder at ShangHai.
 
